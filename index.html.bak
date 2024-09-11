@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Dimension by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Dimension by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -91,14 +90,11 @@
           <h2 class="major">Contact</h2>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field half"> <label for="name">Name</label> <input name="name"
-
+              <div class="field half"> <label for="name">Name</label> <input name="name"
                   id="name" type="text"> </div>
-              <div class="field half"> <label for="email">Email</label> <input
-
+              <div class="field half"> <label for="email">Email</label> <input
                   name="email" id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
-
+              <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="4"></textarea> </div>
             </div>
             <ul class="actions">
@@ -306,14 +302,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
             <h3 class="major">Form</h3>
             <form method="post" action="#">
               <div class="fields">
-                <div class="field half"> <label for="demo-name">Name</label> <input
-
-                    name="demo-name" id="demo-name" value="" placeholder="Jane Doe"
-
+                <div class="field half"> <label for="demo-name">Name</label> <input
+                    name="demo-name" id="demo-name" value="" placeholder="Jane Doe"
                     type="text"> </div>
                 <div class="field half"> <label for="demo-email">Email</label>
-                  <input name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld"
-
+                  <input name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld"
                     type="email"> </div>
                 <div class="field"> <label for="demo-category">Category</label>
                   <select name="demo-category" id="demo-category">
@@ -324,24 +317,19 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
                     <option value="1">Human Resources</option>
                   </select>
                 </div>
-                <div class="field half"> <input id="demo-priority-low" name="demo-priority"
-
+                <div class="field half"> <input id="demo-priority-low" name="demo-priority"
                     checked="checked" type="radio"> <label for="demo-priority-low">Low</label>
                 </div>
-                <div class="field half"> <input id="demo-priority-high" name="demo-priority"
-
+                <div class="field half"> <input id="demo-priority-high" name="demo-priority"
                     type="radio"> <label for="demo-priority-high">High</label>
                 </div>
-                <div class="field half"> <input id="demo-copy" name="demo-copy"
-
+                <div class="field half"> <input id="demo-copy" name="demo-copy"
                     type="checkbox"> <label for="demo-copy">Email me a copy</label>
                 </div>
-                <div class="field half"> <input id="demo-human" name="demo-human"
-
+                <div class="field half"> <input id="demo-human" name="demo-human"
                     checked="checked" type="checkbox"> <label for="demo-human">Not
                     a robot</label> </div>
-                <div class="field"> <label for="demo-message">Message</label> <textarea
-
+                <div class="field"> <label for="demo-message">Message</label> <textarea
 name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
                 </div>
               </div>
